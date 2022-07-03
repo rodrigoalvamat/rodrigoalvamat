@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Alvarenga</h1>
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/rodrigo-alvarenga-mattos/" target="blank"
     ><img
@@ -28,7 +26,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h4 align="left">Languages and Tools</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -135,7 +133,7 @@
 
 <br />
 <!--
-<h3>Statistical Data</h3>
+<h4>Statistical Data</h4>
 <p>
   <img
     align="center"
