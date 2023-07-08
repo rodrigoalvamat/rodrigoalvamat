@@ -198,7 +198,7 @@
   
 </p>
 
-<h4 align="left">DevOps:</h4>
+<h4 align="left">Containers & DevOps:</h4>
 <p align="left">
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img
