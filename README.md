@@ -1,31 +1,3 @@
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-alvarenga-mattos/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Rodrigo de Alvarenga Mattos"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/rodrigoalmatt" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Rodrigo de Alvarenga Mattos"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.facebook.com/rodrigoalvarengamattos" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Rodrigo de Alvarenga Mattos"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
 <h4 align="left">Languages:</h4>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
