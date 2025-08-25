@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="[URL_to_your_banner_image]" alt="Banner" width="800"/>
   <h1>Hi there, I'm Rodrigo de Alvarenga Mattos 👋</h1>
   <h3>Data & AI Engineer | Weaving data into a semantic mesh</h3>
   <p>
