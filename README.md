@@ -5,5 +5,5 @@
     <a href="https://www.linkedin.com/in/rodrigo-alvarenga-mattos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
   <hr/>
-  <h5>Founder & Maintainer at <a href="https://enkinex.org">enkinex.org</a></h5>
+  <h5>Open Source Software Maintainer & Founder at <a href="https://enkinex.org">enkinex.org</a></h5>
 </div>
